@@ -1,0 +1,26 @@
+{
+  "name": "Bill Atkins",
+  "age": 32,
+  "address": {
+    "street": "Uhoaja Boulevard",
+    "city": "Niesoce",
+    "state": "CA",
+    "zip": "86044"
+  },
+  "contact": {
+    "phone": "(640) 573-3409",
+    "servicePhone": "800463882"
+  },
+  "birthday": "1984-10-11T16:13:09.937Z",
+  "ip": "149.104.142.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Pacvijsa iminej engavam pozjawzol libsa awo ebe vobtikkuv oc hocat guam omhinbik kuovacaf ubowij joflifu gapcemheh kesazgej. Rifbennuf munok rewwa cunasi esva duboled waguclo uhi tekvam erkug eci cum bil hiw hefagor kikzo faofhem pibihuov. Olisidmi ginalwot wacaza jazat isougifa sugcecge nal ge jage zavnudbu ifahabew tak pizri zu telhodbi baus.",
+    "bio": "Fotzoc ahfi mahmu wonovliw islilom re jel zuvced jafuz mi picuj putzig. Sourju ufanu so golew soka zedo ta wamu puv anira osekog ufe daz jon webib. Kaenimeg wet sewlikil jifreriw carcefuv ruat emiabhij nuf fo libje efsa fow. Dap wodrebor li piv sab soirewi gim julelze uhege hit fufu maju ganuzof otemojtu cup zu."
+  },
+  "apiKey": "c61d3c2d546eb9c8ca59628127dbe668c77e0f7d2a808db5a4b8359bd0672554",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
