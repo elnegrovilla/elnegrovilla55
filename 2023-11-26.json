@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Curtis",
+  "age": 39,
+  "address": {
+    "street": "Lotbuz Pike",
+    "city": "Jatemro",
+    "state": "NJ",
+    "zip": "75505"
+  },
+  "contact": {
+    "phone": "(649) 386-1337",
+    "servicePhone": "800287895"
+  },
+  "birthday": "1976-03-04T03:17:17.619Z",
+  "ip": "64.133.91.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Iga zecippec bo vef tepakbi wah garcu igopoje murute ewo magufiope rargohguv. Wogkun zumikho wese ela opranhug jismutno eve cefag zikasna lifji sazo pur. Gi siwusah vizolal nukkactap sitsikloc uzoma nej hid vig melrare lepub kat. Dij rikedud wepu ko litdaj gizo wev duf od rum te pe cuhuzocop.",
+    "bio": "Loh kajej ramkewdi tolorug pavuip tidarwic fatjerte wezko sahocaalu dotaozi ve du luc ukid tucipka pehlut guhamoz ka. Lo zu puzipos igpas cizupbac pojzezu lup jocroc egti tefhesen cag berajec porjafab veiba izepasuc wijkuw mosu. Za wo musa gilo vulawna zamamope ciebsij sakuaba zebel roezti puwaduf zi."
+  },
+  "apiKey": "89462fad4e01eeda60cb650445345354a11d440438fce70f4493b6a47ac4131d",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
