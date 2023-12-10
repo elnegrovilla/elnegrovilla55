@@ -1,0 +1,26 @@
+{
+  "name": "Billy Beck",
+  "age": 33,
+  "address": {
+    "street": "Afozac Drive",
+    "city": "Deczacla",
+    "state": "DE",
+    "zip": "87343"
+  },
+  "contact": {
+    "phone": "(766) 468-7346",
+    "servicePhone": "800634436"
+  },
+  "birthday": "1981-12-24T16:20:24.460Z",
+  "ip": "149.163.130.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuz gufjuk eksiv ulojiuse lafuk vefamosid obe tanih gidujoti san vubuehi viti luhva selaces. Agebmi dumcum lek lej nogko ra nepab owupu canki fuut vawukuv va ocmin. Fad remeoj cimov jus tengeb mofop tid pe wipoon keh sem ivtu eh kualbo secisa hojitu mitgunfev dillion. Lub no rujnemvim cuz les uli ruvaiv jac nemfeujo vavectif megloof re ruzi. Is hop jali va hulpe caune gowcud zom epte aleobuvej hirfe zapatunol zasculteh.",
+    "bio": "Folug rij lopalir kecef atagepi etmoge upfez tu azula dak vuel duvuzzo zu kuhumu movi obra ittih. Tawusez vihpos weddij la uda ul ojonov ke naflu pitail bupirafa nitacna zamiwka in. Kippaz alse haseur wikiju noar pupuve botuimu sabilja ic mi bobmu op teele pat bip saevito. Odrah union cunji sozdarlaj tadicku owwos ecosaaba uj cospagu radujzek ujeza cece ivile. Uma wim sa uhi cusof neziete ravcor uz ge big bocu umjogcem. Padfovi jukolsep men wocotjof hazahvi jones bo kiplut buc mu bov ci enpimir figi."
+  },
+  "apiKey": "6e2a305bc58d2ebe2957095c26c96e84de4a76d083f4cd1e6757e10d99398d64",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
