@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Pena",
+  "age": 51,
+  "address": {
+    "street": "Vuzu Pike",
+    "city": "Rucojat",
+    "state": "WV",
+    "zip": "64849"
+  },
+  "contact": {
+    "phone": "(804) 462-7014",
+    "servicePhone": "800631264"
+  },
+  "birthday": "1959-02-14T13:30:55.144Z",
+  "ip": "229.51.170.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Rirguzco bekhom iv umu hekedec erilisri fun lovil nudata uhozi hu pop namjehi otdifuk luzonafa futgumse ewazmi sahi. Tissacap minpicu sun huzil lus te jeahiti kurcu bocsat lo neavgud zebku difpouco jivec osudovug iholupaj. Da guzo veliv tuuhitab viowol ned pujjegom zag iptupi nizhino macpav zevgewu limbotur upukicroj pile co.",
+    "bio": "Zuhge sidar ji onihol la duho mu tagcibvi wimvej luvjucso uwico hu nadi mo aherihke bapul ec. Roj duvowup uzibu lir mema gem ki ji jedke asojirheb tu bodon nur zesuje jo bog hevi. Iri ti joneup sa koz lo firurawo za ev hi muaji olabodor potoda gamegzo bewubo izavoz ca."
+  },
+  "apiKey": "9842ed1dc5a1b961ae448366c33da87fd61a93ec9e5c558c462e313734475209",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
