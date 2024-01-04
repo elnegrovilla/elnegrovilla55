@@ -1,0 +1,26 @@
+{
+  "name": "Jared Patterson",
+  "age": 59,
+  "address": {
+    "street": "Loltas Manor",
+    "city": "Roegeur",
+    "state": "ND",
+    "zip": "53790"
+  },
+  "contact": {
+    "phone": "(832) 640-8157",
+    "servicePhone": "800892959"
+  },
+  "birthday": "1975-01-24T11:24:02.728Z",
+  "ip": "155.143.86.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri meb bivut ajalesi iweuzu armiwusu jivasirec sijvu tamiguc afo ditic je giruno zitezvoz neb vapne ofuuha. Igfot teh gen akonri kebha dosjikbi mef pijucvuf no ve metol vafev aru rujniz sesiufa owuij beorfuz. Tima givcessan efa zewur igeke misfav lim halluwbij cobnib rimbubmeb jihrejfin uhowuvvir. Ombewe vumsim asjutoc alemoeli hosaj kaed cighambag jusa of iz nidami ono suhaha zarafrem matjuj dujud. Mora rekju ebge itsoji abiipo apibez mas pureca zaulpes vikzofed le doura okni.",
+    "bio": "Fa gabhu nukigezo peh hebwe ho so pis mucli diahpe pigbijiv apparsuk obaamkul tuboviso. Mipri vite pabahi sagi biijo mermev ruspeztos ebiig rovut fagat soasiuh maobikeh soguice uwe eweezoda. Kij dauco fiogekid if gubuh if ki ihigejo kidodja pa ujawitu vitbanvid owmuhew hueh."
+  },
+  "apiKey": "efdb1cfc27c34868ff0c867e61cae42f48f001dbba97ef3ce1cb49ac44e1cd3a",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
