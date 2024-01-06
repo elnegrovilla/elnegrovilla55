@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Johnson",
+  "age": 24,
+  "address": {
+    "street": "Hadap Point",
+    "city": "Furadusi",
+    "state": "ND",
+    "zip": "40860"
+  },
+  "contact": {
+    "phone": "(320) 999-3486",
+    "servicePhone": "800426837"
+  },
+  "birthday": "1980-08-29T20:58:49.214Z",
+  "ip": "145.103.132.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibi dokcut nil le asukar pe ir oje niv lukid na udu. Bokzenda ofefih noptuvu kop zutjelok ocorowec erek us dapzuul javiwune uhervi mip tumab. Ava wabobe otuafipid hedonu vovpidin taaneaso or egfuub fe vuwe cegut selsah nes dejuwnum colo pepalava. Gelguwe sowu tih gacas wiivveh dilahtih joh jo im gerec afiko jo ro cowheha gud wili ke.",
+    "bio": "Nofi joudumu wac ipi jirhi wihne wecov etu ru meki det vugohoc. Arabepi enopunmal kev juug mitashe dovezu narmehdab zig poz suplikmon gi hairuzi wa. Nalof vi nuf umu odawaw wuz hoci kus noedgi si du ticpacar kuzfuk pu pien."
+  },
+  "apiKey": "cd59438a01ef4368bd98a628166203fbb4339c375260912536cfd09aa96d008f",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
