@@ -1,0 +1,26 @@
+{
+  "name": "Sally Drake",
+  "age": 64,
+  "address": {
+    "street": "Ababac Boulevard",
+    "city": "Rinmuloze",
+    "state": "SD",
+    "zip": "45182"
+  },
+  "contact": {
+    "phone": "(541) 698-6605",
+    "servicePhone": "800486785"
+  },
+  "birthday": "2003-01-02T20:36:33.070Z",
+  "ip": "63.253.1.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Tigu toole viji pacifehah ejujuhin bo dacmehuc refroknil kongeolo zujmez jenik vudo fekese icagow ketikkud muw ir. Zacbakcu borhahse bo evovurec apepusu lehot coiwgeh zeri fodesam ro be gup. Fo dawpum zobib jif fa wapkungu ro tuwisa tonezo ruuca labku pesoedi etofov ze wic.",
+    "bio": "Er fanon laf ta wokab tumoles roidu nilukze tiw wurtozon ir jaz cobher caz gegluslo te bajvufum katod. Ji ugomo zuma kimam litab lub sik kutice gakhumgu olajebune kohen dufafzuz nis fuhiwo riep. Okdacafi neilu porafjuv cuf it dametoti cahpib feh daeh geso hovduhzur hub du tog. Soj ezeegho zicwem ri suivru vubru ubru poekhi umevu ib marijde opanitmef azoni kekuvo rukahoko atimu."
+  },
+  "apiKey": "fc152a59be6f2cc339e69b66adc4d49d467f636ddf67e6edb847bf305923e97b",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
