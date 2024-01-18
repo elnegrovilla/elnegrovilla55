@@ -1,0 +1,26 @@
+{
+  "name": "Andre Palmer",
+  "age": 22,
+  "address": {
+    "street": "Jobog Manor",
+    "city": "Zubofalu",
+    "state": "GA",
+    "zip": "80058"
+  },
+  "contact": {
+    "phone": "(746) 519-8026",
+    "servicePhone": "800822587"
+  },
+  "birthday": "1982-11-20T04:03:00.108Z",
+  "ip": "189.209.138.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Kodlavwez ap he ijituzite ro harafabi vur undu newaro vuvkudwa urcuz ho rohet or. Ol felew citigovuv gatug obciabu no nezasu sumuhica palvi ad baha rowit vug hipnis. Dic zuk seji muphubsuw ivhevki hijeiji natses mopuhi azsah zakca deg lalitmog hub okiew fabsu ufuwuwas. Jovfimze ih hed wuszu bicane tuovesom av gifos hal kujoneg veip vuosoolo defpedri eticaen dobzasvil dobavez vugece. Fo zibiz obgok ciz pojruh gobwuge devepogim ru luatace raovi wiwufe owa beubole. Vujeddah wulegus totul vi vo darno arwaec geuro hofvob heh heteh tamnajpud hi ohudoblej ififum joozo.",
+    "bio": "Vifa ziizo le jonot ecrezri ha nevoz to cew keowe vewwukof fulfezes caalci viaci ew jiksawa manodvaf ivaogge. Cive safut jatdi ho banroub zig abu pav gejehig ojituto rurte wevtuse sobepezid fowhu ubu mah pozi carigvus. Atujame ti mulvamcih tim ef luv bit kuala lifurke raj me zejheg ehazus pef hesjifiz hu tavoknis popoh."
+  },
+  "apiKey": "1f886fa7f00db4d864c81c4f5be3aab96bfee86a74f8dce653cee928c3886b5f",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
