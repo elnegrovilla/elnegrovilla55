@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Luna",
+  "age": 29,
+  "address": {
+    "street": "Cunjo Center",
+    "city": "Becasa",
+    "state": "MA",
+    "zip": "67843"
+  },
+  "contact": {
+    "phone": "(976) 970-7229",
+    "servicePhone": "800755385"
+  },
+  "birthday": "1999-09-15T18:31:33.605Z",
+  "ip": "103.52.99.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko tokroaza fiin zeinur tudzol udwe ise votgilat ulhewwu wokrezisa lo pop boze. Pin te zo poako budar hitihin nidgetil sunub era nigabam kitikkej biirut doga unoveme tunjufuh vukwaz zun. Wohil hutioza jit juhdutiv su ufilevduj mo sig ganefop me vab apajivuv poga woag jobarha pin. Niah pu ninsiwole fidakfi wi carekfom jalep atu hafeg maeme jogrimufa wahiwi soriwoti tugila kifzabca pi jenwaz. Siuj lodul onihaih gifbi houjiz im fip cij uron lah sassi harhe kuwfoweg. Fi amo nanogama jojico fifidbu ni wocmor mojle vecijo man al zigfa cal lemtom nuhsuip vehpow wiz. Ovucib nid kap pujcenwa macnin sadcuipi mezrikov ter ve kuznod ujuwokem wu ogaje zutif gul okebek.",
+    "bio": "Azaze lowsa ikkijte ihavecovi niz lipe fojniznev lepi lobrukoz kutpo nurmogo maolu jurnafob mevnizmah. Hi gi lol kathuf agi puen bak muar ni fe wucuvpo tohzuh dov dijki fibufeh. Ehna uhilek pokiw nadumpuv kin nuwwuohe sovi rewud mib buwowag zajoga sewu bifakvir todmirmur affu ucpab. Rebpu vavul netgak suojeepa fa jirobi cupmow cedkudoj havregu funepjot soklocsus iviz izgo ba vuv. Bonu atato avfufa vuc ko kotadituz zirawzap atu isvez kiz er ali vaot fi ma newew sabtered."
+  },
+  "apiKey": "489c58d009111578005bd9f7f88765c9f3bf9faab5cfbb400bc6d8e5d83f6d2b",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
