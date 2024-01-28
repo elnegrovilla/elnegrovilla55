@@ -1,0 +1,26 @@
+{
+  "name": "Timothy Stone",
+  "age": 40,
+  "address": {
+    "street": "Tevwo Avenue",
+    "city": "Sefnokob",
+    "state": "WY",
+    "zip": "57024"
+  },
+  "contact": {
+    "phone": "(903) 570-4995",
+    "servicePhone": "800357125"
+  },
+  "birthday": "1965-03-08T13:07:35.963Z",
+  "ip": "97.123.235.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Isju usonuwu devu wo iv tumho ad hompem agepuznih ebimow do fuha lopguida. Kiuhpag jih zokew lurfu heipros but covzu sevaowe firdovun iwli wesail ko bew. Lazwasut ceutvu ovrisaf tat sazrih owemi davaf vinvace ri zozoke dadzufvi azuko kep ti momsij biv tinden. Bu jewik mot cipiw wolo lulo pogudefuc ow ruik pom ekgo wopsuhut furuen ga ziv vadies jojgovha.",
+    "bio": "Fuom ewujel jutugla gauhi ughandam ma to umic akja owu vikis ace pew siho nifimecar feidouk ahipofi ezho. Ipa ajivovub ahtiwla up ve wofjinus witgehu at devliwu zob la go. Ejofako jisud poto lefagig douda jajefofin kamesne wusitilu oluuda coed soz hos samor."
+  },
+  "apiKey": "42d96bddd9c37ccc57d7cde12e541781c19f8827c46fbb2ec90a6b452615b92a",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
