@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Cole",
+  "age": 52,
+  "address": {
+    "street": "Morgim View",
+    "city": "Sevhirpow",
+    "state": "NE",
+    "zip": "10819"
+  },
+  "contact": {
+    "phone": "(445) 341-8586",
+    "servicePhone": "800665364"
+  },
+  "birthday": "1990-01-15T09:04:32.155Z",
+  "ip": "191.216.135.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Fer vede uljecfuc dutesevaz udluzve ve vitduho sorfiolu toihozi podjes definmoj pajhab kiremu fiwmimcib riv hidbu gof. Giw wojuma iwargi vapilwo pu ok ze olowewfum to zez mav fo sugi notmug zul fowmimos. Ej fu gi muda rihmam co sebcocdo togkihju dol dedu naziuke ac riv ihlew pilivosa. Irugozo bawikuj cunkopbu meur ucosuape sifpev mopfe fusrap evji usi mul hidzo ibjeeb murzunnes katelgob ha. Acdifudi mu as loljawli iruku oso cejcij git haipra mi siawirob fawez fitoh mustew pi itozo. Hik gufacocan ma muwa sulol esnuzuh bu go kiwi nuahic tezbu puziato nionukim usi rasob ga orolij ew.",
+    "bio": "Ab rav mahosah ow zas nat puwida uju galjukzu kegnilzur jaw rab osi govez ulija suk davukoh. Uco cer zucgiraf ukufwo ubiziaso haalonu dicjehe poziz huejnu arewuce jazgob si. Hik je vu cafsus kogipuj ovpiz kanudiro efaokanev ob ub iz hisegipiv toun."
+  },
+  "apiKey": "567d8beaf0ca1ec872c62e04b96e94345aed72927907e27aa34577e9226643e3",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
