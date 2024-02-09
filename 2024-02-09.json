@@ -1,0 +1,26 @@
+{
+  "name": "John Patton",
+  "age": 37,
+  "address": {
+    "street": "Fogofi Junction",
+    "city": "Piodofur",
+    "state": "LA",
+    "zip": "32504"
+  },
+  "contact": {
+    "phone": "(880) 802-7301",
+    "servicePhone": "800576647"
+  },
+  "birthday": "1966-06-22T12:25:00.097Z",
+  "ip": "242.218.104.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Owjavbaw ze lekez cev veadcu ne tatviv fe wu ucinot zi nabede hile. Asfihmo on uv ipodouk kemgewfu peimo uliirola nedca sudcif muhvis sukdoge upwusaj wi. Leimo geref ofditgo ni kohwuegu juzoh co jil da forojaf pacinug ovajithis jiwbe cik.",
+    "bio": "Fiw epopesja nalmotwig ogu uwcigel weocu gublacriv novi evo ofuvicli ol itfuwogo luzejoced ove. Ha zu vod sumisev bepwe madfuf uhaheh kekucaw det femsu degicwa uc ane waz pob co sific. Res giirabe udedab bir kozpume tapipsop la ojzifkaf kathe hugpa je mejkazhi wesosga ro somzensa idhonaf."
+  },
+  "apiKey": "5c7cea6da4d27bcec1a8a11cb14b2c659b050083327f21329a2668f9a43a6fff",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
