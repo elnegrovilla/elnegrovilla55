@@ -1,0 +1,26 @@
+{
+  "name": "Edith Craig",
+  "age": 25,
+  "address": {
+    "street": "Nufco Pass",
+    "city": "Buocri",
+    "state": "WV",
+    "zip": "79542"
+  },
+  "contact": {
+    "phone": "(762) 231-2297",
+    "servicePhone": "800413329"
+  },
+  "birthday": "1969-08-15T09:31:52.125Z",
+  "ip": "152.147.82.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Obamiho tioh tusec wanhus virgi zijihuda zavoj puri ha ecagu ag ciobu dorid fi. Lavukug jen be va buruf li butvoni ruebepo wa tigol ciigu kocane akvi lubcaugi hero wirvuf juspoz beb. Du es fi iba zawijo lomejow ipbozzuk ufi fiwjimo tazpup wamur re roenuha. Jene ovezol ruharu fofod amavo docnil ji toh voc jipfekaw fibetimu agwi geslu er.",
+    "bio": "Be enbichog ripjavi papu dim bu jeblazfiv gosi ukivugiho zebta ki he ala emilgu okbedan vi. Teh juozren ku gotacito teswo cutriw igiradod wavri ve jojizuci utufossi dare. Ladkevik ud ihetege ugakow awhihim navbazgif silurze ororoafe la ovu zubajve pune mabewwip cihel."
+  },
+  "apiKey": "fd2fcfe1ec57028b33f270b2c739e21b81c91e82bc51bcf40683efafba5176e1",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
