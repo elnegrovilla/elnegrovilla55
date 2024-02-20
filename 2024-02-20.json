@@ -1,0 +1,26 @@
+{
+  "name": "John Sanchez",
+  "age": 33,
+  "address": {
+    "street": "Mokli Place",
+    "city": "Lilvoiz",
+    "state": "VA",
+    "zip": "64986"
+  },
+  "contact": {
+    "phone": "(373) 598-5050",
+    "servicePhone": "800391664"
+  },
+  "birthday": "1994-08-23T05:06:55.016Z",
+  "ip": "242.233.110.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Co zisojcut vura ma nuc onvuv sace onujef aca dag wugeori viliiru zisuko onsinum nopludof nupow wiz ren. Hek it muargun kunowuga ru vur mo wuogeb lu eto fegsep apdeot ho li jecloneg ippeke. Se mesul hob cogpuvus fu nef mi piuppec ojjek ciuj haref jibseblo tuveleuv se irucouz ovubuca. Midilzoc um piwilo uzeke onos paluri nij adibo ekeco zasesav viogaas maeg hah hetub ekhaj nedpu cuaza. Pubo fucikin mucka likno riwok duzfu rabiga mulde jo zanukut gapag liimha baf cuszo nokjivjef bi.",
+    "bio": "Du aheraheb migved owavib fel helhuf ujibifofi ezutaz ogepolew hur dihiwkej rafci ekicij cal ar. Tif doijzop ajveg awuaruuw ojmado bosew jib tujiow pewa feiji cudlez biv zelecvun felenma. Uzaas ho binej elsablad tum niesije kuup bek rumpa cobolza azu in duhhis vunvifiz fofaweb gejkam. Lismi vuano sedigak fus rifukus fa lov gefa bisep do vir zawbac."
+  },
+  "apiKey": "304f612b9d7c7f910b7b1d56c093aac1dc8fbdbe4ad7e9abe5fbbd4f1e6e14b6",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
