@@ -1,0 +1,26 @@
+{
+  "name": "Jim Guerrero",
+  "age": 54,
+  "address": {
+    "street": "Davja Road",
+    "city": "Bazepi",
+    "state": "VA",
+    "zip": "86259"
+  },
+  "contact": {
+    "phone": "(951) 344-2098",
+    "servicePhone": "800953296"
+  },
+  "birthday": "1999-03-15T12:29:47.957Z",
+  "ip": "122.62.107.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Nam lebuz mikadef pewmot uh toefe ker lub usega mi wajfowpu gen kerzoj. Zoec je azefiep jihojvi melhin kibal iwojad edoupibes ma romotbu umdi kowi ek fuwmi na avumu tevurgik. Vu pifuv jucka wo up junnodhoj secoh so gokopo uvuzid roel il muhduce fef biofe ciru novrukir.",
+    "bio": "Pov jin vu ujihemboz koid ogira nasro ezewe ewwi riarecat cu ejure ju delzavsom ewku. Rovpodir jirnesvef vu kublali ebovovi udfej jo of asuwil enilu bi bow. Ohila ukacuri ris imbe nu efa zavjejob re co helaz canbawak hagicu dawidkil. Zuzcugir sap monoczoh suvwiug ewaguluz pi obanve wejup ca sojuldop iti neltep ca miho."
+  },
+  "apiKey": "58432563675c82081770aed726654801d8f892157223a1b97c42d8cae67e98a3",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
