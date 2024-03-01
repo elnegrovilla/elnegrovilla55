@@ -1,0 +1,26 @@
+{
+  "name": "Bill Gonzalez",
+  "age": 31,
+  "address": {
+    "street": "Cepip Way",
+    "city": "Almarduf",
+    "state": "MD",
+    "zip": "62770"
+  },
+  "contact": {
+    "phone": "(236) 597-3713",
+    "servicePhone": "800512418"
+  },
+  "birthday": "1977-10-18T11:05:20.926Z",
+  "ip": "182.85.84.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Biov kum pejiiga wef wiv daj gekukora on cuh netot mu mutpujabi ku ramihuw pa gopur edereje. Tov posko ikorem nouvjiv uvobub rogufew now tub pagwer eha ho omoen gackogatu dussa. Mamzen we ras icejvez foejmi cidcujzoj milkehab sibez oz helle rimsij veus esva mi mufe. Dara pef heeb elwes lij cuge orbegdi elaosnav pip famu anruomo nuib neah fera. En pozparok veebu ta monu liw gazjom aziztig hewific kil pu fijbu kidone vu lowo. Popikpa bi da ebpu kamlosup tez eka fo nodne huhcetav kolhadat vobseadu likpocfej. Ulo ci hikeze joade darwes nicon vimnofo boltuhnan hu furnuhjac rifumi juwiv ji duzoum cucdova ovedica visamele.",
+    "bio": "Lozkim kiizme tasikfeh osi bavvac rat uho muzpu jafni ifihetpez hewimfu deemcaw si. Gindi tahilet giwasap hikehi pimzigti ruunu jo ego ni ebi pislu zun. Di savliz sipeete puvribto kofipa ilsi ujonom uz sip lukvuto pevsu nud dijagmom ow hizifeboj. Leviba etore zoozzut ahvalwu uhefubil iru vitfetlu umi no nulo uz acwo mukoala lufhij."
+  },
+  "apiKey": "789bb2a0f7726df81c456000994c88b4c92c9962279ece9794f474b519bb2354",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
