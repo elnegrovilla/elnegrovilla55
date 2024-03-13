@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Jones",
+  "age": 42,
+  "address": {
+    "street": "Fial Junction",
+    "city": "Admijow",
+    "state": "CT",
+    "zip": "27121"
+  },
+  "contact": {
+    "phone": "(362) 978-4512",
+    "servicePhone": "800331958"
+  },
+  "birthday": "1965-01-05T06:57:13.962Z",
+  "ip": "41.231.35.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Viuza gonnede bufbiwti hizwewej jo ik igoah guwfeho ore am pebnuroj kad. Ka zusu mijincab kegid bamulco hage ivike poojisa relmebpe enwon ja zebpof ihri in rutotpaz todza hoeho kek. Ruodji no jipgeze mef wagumpi ivfo mehek ticunad fumasug olsit abe fib.",
+    "bio": "Taso egecugew ovafeh api huj li pofwuho zorih coama ih vondusav zobi mokihca pom. Li sena tilajut tijvonzur zopa rim pedvaz evba oh sabum kicis cizhukit anuttil huk fotbikman gev se. Gaso bun benfa ri ragbowim posomfis cu zelan selzof wojlom uto gunugoede."
+  },
+  "apiKey": "72437d58f151ea648de6cfa82ae20ae040cc1aa2941150c227b3bd60e5bee9f7",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
