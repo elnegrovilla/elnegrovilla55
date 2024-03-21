@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Taylor",
+  "age": 46,
+  "address": {
+    "street": "Cola Square",
+    "city": "Emerowsa",
+    "state": "NV",
+    "zip": "80831"
+  },
+  "contact": {
+    "phone": "(735) 434-2364",
+    "servicePhone": "800972681"
+  },
+  "birthday": "1971-09-28T07:07:54.211Z",
+  "ip": "110.239.188.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Webvome ujo ku firkojow opukusufa emepob jape feidoma girtuv louh oksikef bihwu ehu gitoip ho mezte. Mu ba bo duh damzobhuv ve naz kuh gutdet jehzafhe ra entuzic dag lokof wi fegi racob. Ziko avaakmup wahoroowa mu num div ucjisew ef haawakig gulivjo tolzov soziomo wutzeela nemim. Ra evirifop miju diot oh kesocdeh etowucceh nemup donifmum nap juaziiw ve at surjoiz jufte.",
+    "bio": "Arzek faj hemej da se najtu punmir buolo foktuvu jevwuju cuhal ompusre lumce. Wowiivu buvwej up ki pip miskufa vul geput megogreb bu uhu dadfozkov. Zimdalif jicgam ramod wapdojpu rapgig lid zujam imutogi mosiiza ibe uf tiwfog lovbo."
+  },
+  "apiKey": "6eb721d2f51a7006441c0c8224096b3b58fc49a4df756f7fe2111effd736d12b",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
