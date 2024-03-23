@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Chandler",
+  "age": 59,
+  "address": {
+    "street": "Zovtej Pass",
+    "city": "Poenduj",
+    "state": "IA",
+    "zip": "21259"
+  },
+  "contact": {
+    "phone": "(987) 705-9789",
+    "servicePhone": "800822215"
+  },
+  "birthday": "1985-03-16T08:22:41.015Z",
+  "ip": "177.122.137.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Nih pabke occet jegki kuj ilohas mecekuh ubehunuz alve zom pite epdilik mabubewi malogunec. Etbub bas ol lohbetnug cafza wagu davigif sa sid seume sa musewuk doraj. Jaslukzam ra caguc puf somimjuh medlowe otole hamazeh ho nid sidgihvug encibmot pu sivopli.",
+    "bio": "Mitpagmet hivwezse dum am onovace na da losenpa ta ramlit ojdi gizteaza hor us bus bi. Ti nallancom ewgaar tocpube giran ikahiz vel fadettuz galegho owupenew puhgotvag gebizku. We wovecpo evudo he biavu hehgev giuma ti eterbo tutpolza tizeti dehuf mezbor bos. Wapuwu mu eta zetorepac uzore ditdaz sinvidget irelunabo onuepu il vatesuh raherab. Furvevjup ewi ido darzewkun wuvfacde vip buvmem gid wiz sacuar azguij maclun."
+  },
+  "apiKey": "f4ceea69302e6f363090374d2a3abf5ab66971ed684d36d3fe6d7b165b96718a",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
