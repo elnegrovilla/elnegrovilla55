@@ -1,0 +1,26 @@
+{
+  "name": "Carolyn Padilla",
+  "age": 42,
+  "address": {
+    "street": "Dagsej Mill",
+    "city": "Abazogek",
+    "state": "KY",
+    "zip": "92069"
+  },
+  "contact": {
+    "phone": "(951) 708-3615",
+    "servicePhone": "800286994"
+  },
+  "birthday": "1978-09-21T09:14:18.586Z",
+  "ip": "117.189.231.127",
+  "foo": "bar",
+  "profile": {
+    "about": "In boepo giekehu faihiv ece lo gik be dezud ilbiif la pus. Tulkud huzuwu dallos ola venuleno siwuoh lelow jidwi fek ipoitesi tidhizle bibiga bukac suoc. Tuteboge alo vur gauzi bupdal vamudbit dinido ko olo oniezi amiwel nogiktaz bijev. Merowo israbu faup sob ce jucahab vil ja fij mozog cemif ameri ni.",
+    "bio": "Kat baj papuh zavzoti dipuvi malito er uzaezsur ro bidon ra arfatfe telku enbu umek ke. Birazveh cun of ozcima um pawira ugafu zekufe dutnit tomucza ontuggew hellego nezunsec cebse buele. Uw ni juusli la cemcaomo efreof jajsuvfu lokesnu mokohnes ampuad volih deigomob du rog upoga to tifumnap husegvu."
+  },
+  "apiKey": "dd6b1ab8f4b8d0257ff499295412f74be93dd2dc984c4624567cc0d213f35343",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
